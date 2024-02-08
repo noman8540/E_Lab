@@ -1,0 +1,1 @@
+"Explore the modern eLab website, built with Spring Boot, HTML, CSS, and an SQL database. Easily schedule your sugar test with a user-friendly interface, guaranteeing a smooth and safe process. Enjoy efficient healthcare booking at eLab!"
